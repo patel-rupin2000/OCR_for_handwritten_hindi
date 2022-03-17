@@ -28,6 +28,7 @@ convolutional neural network (CNN).Hence the general data would be
 handwritten text on image or document or may some images might
 not have good quality of pixels, so we need more type feature and
 very deep convolution network for recognition.
+
 >Convolutional neural networks, unlike
 traditional artificial neural networks, can
 estimate the score function directly from
@@ -43,6 +44,7 @@ of convolution layers, these networks
 exhibited much better performance, making
 these networks suitable for practical
 applications.
+
 >We have deployed 3 model approach instead of traditional single
 model approach, where the character list is equally divided among
 each model and the word or sentence is fed to each one of the
