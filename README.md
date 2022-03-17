@@ -50,3 +50,6 @@ model approach, where the character list is equally divided among
 each model and the word or sentence is fed to each one of the
 model , then whichever model provides maximum accuracy out of
 three is selected.
+
+<h1>Data Input-Output</h1>
+<img src="./images/sample1.png" /> 
