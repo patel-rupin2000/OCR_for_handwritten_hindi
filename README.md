@@ -52,4 +52,4 @@ model , then whichever model provides maximum accuracy out of
 three is selected.
 
 <h1>Data Input-Output</h1>
-<img src="./images/sample1.png" /> 
+<img src="./images/i&o.png" /> 
