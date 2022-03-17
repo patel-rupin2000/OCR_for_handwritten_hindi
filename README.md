@@ -8,7 +8,6 @@ person must fill the details manually for storing on online database which is ve
 specially in India some people fill handwritten forms and document in their native languages which is very difficult
 job for officers to recognize and understand.
 </h5>
-<br>
 <h5>
   There are some present technologies for OCR but all are generally for English handwritten text. But as in India ,
 Hindi being our national language which have very complex text formations and different letters it is almost
