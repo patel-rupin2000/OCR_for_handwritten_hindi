@@ -16,3 +16,35 @@ but with constraint that text in image should digitally printed, which is in-eff
 generally prefer handwritten Hindi format in forms and documents.
 </h5>
 <br>
+# Solution
+<h1>Solution-1</h1>
+
+>Deep learning has recently been demonstrated to be a highly
+strong image identification technology. The biggest distinguishing
+feature is that improved image features for identification are
+derived automatically via training. One of the approaches that
+meets the requirements of the deep learning approach is the
+convolutional neural network (CNN).Hence the general data would be
+handwritten text on image or document or may some images might
+not have good quality of pixels, so we need more type feature and
+very deep convolution network for recognition.
+>Convolutional neural networks, unlike
+traditional artificial neural networks, can
+estimate the score function directly from
+picture pixels. Data augmentation techniques
+based on geometric transformation were
+applied to increase the size of training
+images. We also use the Max-Pooling function
+for the data, and the features extracted
+from this function are used to train the
+network. It is demonstrated that using data
+augmentation and by increasing the number
+of convolution layers, these networks
+exhibited much better performance, making
+these networks suitable for practical
+applications.
+>We have deployed 3 model approach instead of traditional single
+model approach, where the character list is equally divided among
+each model and the word or sentence is fed to each one of the
+model , then whichever model provides maximum accuracy out of
+three is selected.
