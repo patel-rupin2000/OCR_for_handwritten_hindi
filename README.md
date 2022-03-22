@@ -53,3 +53,15 @@ three is selected.
 
 <h1>Data Input-Output</h1>
 <img src="./images/i&o.jpeg" /> 
+
+In conclusion, we applied the knowledge of Convolution Neural Networks to identify the input image
+or document we have achieved a satisfactory accuracy for handwritten text recognition for both
+Hindi and English.
+
+Secondly, we will deployed our trained model as online web app using Flask . Where the user uploads
+the photo or can take snapshot and gets a digital converted text result based on the prediction
+without change in any format of document. We will print same resulted text on document from pixel
+coordinate from where it was detected with help of OpenCV and create another copy.
+
+Thus our final objective would be to create a Real time web app ,where users can use online camera
+to scan documents, get their text recognised and digitalise it.
