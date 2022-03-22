@@ -54,6 +54,7 @@ three is selected.
 <h1>Data Input-Output</h1>
 <img src="./images/i&o.jpeg" /> 
 
+<h1>Conclusion</h1>
 In conclusion, we applied the knowledge of Convolution Neural Networks to identify the input image
 or document we have achieved a satisfactory accuracy for handwritten text recognition for both
 Hindi and English.
