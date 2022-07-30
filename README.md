@@ -45,15 +45,14 @@ exhibited much better performance, making
 these networks suitable for practical
 applications.
 
->We have deployed 3 model approach instead of traditional single
-model approach, where the character list is equally divided among
-each model and the word or sentence is fed to each one of the
-model , then whichever model provides maximum accuracy out of
-three is selected.
 
 <h1>Data Input-Output</h1>
 <img src="./images/i&o.jpeg" /> 
-
+<h1>For Running this project</h1>
+> clone YOLOv5 from github replace detect.py file with our file given 
+> run detect.py passing argument as image path
+> the cropped images will be saved and stored in Cropped Image folder 
+> Now yo can run model.predict on this cropped images and recognize the character using CNN model trained on Devanagri Dataset 
 <h1>Conclusion</h1>
 In conclusion, we applied the knowledge of Convolution Neural Networks to identify the input image
 or document we have achieved a satisfactory accuracy for handwritten text recognition for both
